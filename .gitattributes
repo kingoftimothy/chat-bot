@@ -1,0 +1,17 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+/cached/gpt2_cached_lm_512 filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.safetensors filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/057e43033439e068b325f32af95dde9efc9552ae filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/1f1d9aaca301414e7f6c9396df506798ff4eb9a6 filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/226b0752cac7789c48f0cb3ec53eda48b7be36cc filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/bbba90e88e7420153a0b45c26d9d357242f418ff filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/be4d21d94f3b4687e5a54d84bf6ab46ed0f8defd filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/blobs/d2214b95438592f420ef4df037d9c72ddf993fb6877479fb09320b757f96cfa7 filter=lfs diff=lfs merge=lfs -text
+/cached/models--microsoft--DialoGPT-medium/refs/main filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.0 filter=lfs diff=lfs merge=lfs -text
