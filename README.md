@@ -6,6 +6,9 @@ You can find the direct link to chat with this bot here: [Chat with Model](https
 Here is a demo of the Chat Bot: ![](https://github.com/kingoftimothy/chat-bot/blob/master/Hugging-2.gif)  
   
 You can also invite the discord bot created from this chat bot to your server here: [Discord Bot Invite Link](https://discord.com/api/oauth2/authorize?client_id=1131139095977017424&permissions=2048&scope=bot)  
+
+  ![](https://github.com/kingoftimothy/chat-bot/blob/master/HarryPotterDiscord.gif)
+
   
 ### Structure:
   
