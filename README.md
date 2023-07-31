@@ -7,5 +7,5 @@ You can also invite the discord bot created from this chat bot to your server he
   
 ### Structure:
   
-  modelTrainingForChatBot.ipynb: Python code (Pytorch) with the Google Colab Notebook used to train and upload the model to Hugging Face
+  modelTrainingForChatBot.ipynb: Python code (Pytorch) with the Google Colab Notebook used to train and upload the model to Hugging Face  
   pythonBot: Contains the Python Discord AI Bot Scripts
